@@ -46,7 +46,6 @@ driver.get(GOOGLE_FORM_URL)
 time.sleep(3)
 
 for _ in range(len(price_list)):
-    print(_)
     address_input = driver.find_element(By.CSS_SELECTOR, "input[aria-describedby='i2 i3']")
     price_input = driver.find_element(By.CSS_SELECTOR, "input[aria-describedby='i6 i7']")
     link_input = driver.find_element(By.CSS_SELECTOR, "input[aria-describedby='i10 i11']")
