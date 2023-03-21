@@ -3,7 +3,7 @@
 ## What is this project about? 
 Este es un programa que rellena automaticamente un Google Form con informacion sobre propiedades en alquiler.
 
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![Alt Text](app/form-filled.gif)
 
 ## Built with: 
 
