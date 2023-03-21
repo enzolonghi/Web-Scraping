@@ -1,7 +1,7 @@
 # Web-Scraping
 
 ## What is this project about? 
-Este es un programa que rellena automaticamente un Google Form con informacion sobre propiedades en alquiler.
+This is a program that automatically fills a Google Form with information about rental properties.
 
 ![Alt Text](app/form-filled.gif)
 
